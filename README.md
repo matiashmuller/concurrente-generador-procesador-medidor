@@ -194,5 +194,5 @@ Ejemplo de salida:
 ```
 Solución:
 ```
-generador-procesador-medidor.py
+generador-procesador-mensajero.py
 ```
